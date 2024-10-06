@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="100%" style="border-radius: 5px;" />
 <h1 align="center">Hi 👋, I'm Abdurazzoq Abdusalomov</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">A passionate FullStack developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=abdul-rozzaq&label=Profile%20views&color=0e75b6&style=flat"
