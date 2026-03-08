@@ -1,13 +1,16 @@
-<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="100%" style="border-radius: 5px;" />
+<img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 5px;" />
+
 <h1 align="center">Hi 👋, I'm Abdurazzoq Abdusalomov</h1>
 <h3 align="center">A passionate FullStack developer from Uzbekistan 🇺🇿</h3>
 
-<p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=abdul-rozzaq&label=Profile%20views&color=0e75b6&style=flat"
-        alt="abdul-rozzaq" />&ThickSpace;<a href="https://wakatime.com/@a3e83616-791d-4a3a-a9dc-5d60098f70af"><img
-            src="https://wakatime.com/badge/user/a3e83616-791d-4a3a-a9dc-5d60098f70af.svg"
-            alt="Total time coded since Sep 2 2023" /></a></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rozzaq&theme=onedark&margin-w=15&margin-h=15&column=5" alt="abdul-rozzaq" /></a> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abdul-rozzaq&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-rozzaq" />
+    <img src="https://wakatime.com/badge/user/a3e83616-791d-4a3a-a9dc-5d60098f70af.svg" alt="Total time coded since Sep 2 2023" />
+</p>
+
+<p align="center">
+    <img src="https://trophygh.kolioaris.xyz/?username=abdul-rozzaq&theme=onedark&margin-w=15&margin-h=15&column=5" alt="abdul-rozzaq" />
+</p>
 
 - 🔭 I’m currently working on **Spiska Uz**
 
@@ -25,27 +28,27 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codepen.io/rayyandev" target="blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="rayyandev" height="30" width="40" /></a>
-    <a href="https://dev.to/abdul-rozzaq" target="blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="abdul-rozzaq" height="30" width="40" /></a>
-    <a href="https://twitter.com/abdurazzoq43981" target="blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="abdurazzoq43981" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/abdurazzoq-abdusalomov-14b696285" target="blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="abdurazzoq-abdusalomov-14b696285" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/27780316" target="blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="27780316" height="30" width="40" /></a>
-    <a href="https://fb.com/100072563599945" target="blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="100072563599945" height="30" width="40" /></a>
-    <a href="https://instagram.com/abdul__rozzaq" target="blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="abdul__rozzaq" height="30" width="40" /></a>
+    <a href="https://codepen.io/rayyandev" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rayyandev" height="30" width="40" />
+    </a>
+    <a href="https://dev.to/abdul-rozzaq" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdul-rozzaq" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/abdurazzoq43981" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdurazzoq43981" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/abdurazzoq-abdusalomov-14b696285" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurazzoq-abdusalomov-14b696285" height="30" width="40" />
+    </a>
+    <a href="https://stackoverflow.com/users/27780316" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27780316" height="30" width="40" />
+    </a>
+    <a href="https://fb.com/100072563599945" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100072563599945" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/abdul__rozzaq" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul__rozzaq" height="30" width="40" />
+    </a>
     <a href="https://t.me/abdul_rozzaq" target="blank">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="30" width="40">
             <path fill="#29b6f6" d="M24 4A20 20 0 1 0 24 44A20 20 0 1 0 24 4Z" />
@@ -60,56 +63,38 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a> <br /> <a
-        href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-            height="40" /> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://heroku.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-    </a><br /> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="40" height="40" /> </a>
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> 
+    <br />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+    <br />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
 </p>
-<!-- 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/abdul-rozzaq"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdul-rozzaq" /></a></p> -->
 
-
+<!--
+    <h3 align="left">Support:</h3>
+    <p>
+        <a href="https://www.buymeacoffee.com/abdul-rozzaq"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdul-rozzaq" /></a>
+    </p>
+-->
 
 <div class="images" style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; align-items: start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rozzaq&show_icons=true&locale=en&layout=compact&theme=onedark"
-        alt="abdul-rozzaq" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-rozzaq&theme=onedark" alt="abdul-rozzaq" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abdul-rozzaq&show_icons=true&locale=en&theme=onedark"
-        alt="abdul-rozzaq" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rozzaq&show_icons=true&locale=en&layout=compact&theme=onedark" alt="abdul-rozzaq" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abdul-rozzaq&show_icons=true&locale=en&theme=onedark" alt="abdul-rozzaq" />
 </div>
