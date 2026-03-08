@@ -73,12 +73,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-rozzaq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rozzaq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=abdul-rozzaq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs?username=abdul-rozzaq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-rozzaq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abdul-rozzaq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
