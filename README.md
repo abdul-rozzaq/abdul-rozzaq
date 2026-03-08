@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdurazzoq+Abdusalomov;FullStack+Developer+%F0%9F%87%BA%F0%9F%87%BF+from+Uzbekistan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdurazzoq+Abdusalomov;FullStack+Developer+from+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,20 +15,6 @@
     <img src="https://img.shields.io/github/followers/abdul-rozzaq?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
   </a>
 </div>
-
----
-
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-### 🧑‍💻 About Me
-
-- 🔭 Currently building **Spiska Uz**
-- 🌱 Leveling up in **Flutter & Django**
-- 💬 Ask me about **Flutter, Django, Python, React**
-- 📫 Reach me at **rayyan.dev@mail.ru**
-- ⚡ Fun fact: **I think I am funny**
-
-<br clear="right"/>
 
 ---
 
@@ -73,8 +59,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=abdul-rozzaq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs?username=abdul-rozzaq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-psi-smoky-50.vercel.app/api?username=abdul-rozzaq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats-psi-smoky-50.vercel.app/api/top-langs?username=abdul-rozzaq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
