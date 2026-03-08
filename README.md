@@ -75,6 +75,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-rozzaq&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
+<details>
+  <summary>📅 My 2022 Activity</summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-rozzaq&theme=tokyo-night&hide_border=true&area=true&from=2022-01-01&to=2022-12-31" alt="2022 Activity Graph" />
+  </div>
+</details>
+
 ---
 
 ### 🐍 Contribution Snake
