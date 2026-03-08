@@ -1,100 +1,139 @@
-<img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 5px;" />
+<div align="center">
+  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 10px;" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Abdurazzoq Abdusalomov</h1>
-<h3 align="center">A passionate FullStack developer from Uzbekistan 🇺🇿</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdurazzoq+Abdusalomov;FullStack+Developer+%F0%9F%87%BA%F0%9F%87%BF+from+Uzbekistan" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abdul-rozzaq&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-rozzaq" />
-    <img src="https://wakatime.com/badge/user/a3e83616-791d-4a3a-a9dc-5d60098f70af.svg" alt="Total time coded since Sep 2 2023" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdul-rozzaq&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://wakatime.com/badge/user/a3e83616-791d-4a3a-a9dc-5d60098f70af.svg?style=for-the-badge" alt="WakaTime" />
+  <a href="https://github.com/abdul-rozzaq?tab=followers">
+    <img src="https://img.shields.io/github/followers/abdul-rozzaq?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
+  </a>
+</div>
 
-<p align="center">
-    <img src="https://trophygh.kolioaris.xyz/?username=abdul-rozzaq&theme=onedark&margin-w=15&margin-h=15&column=5" alt="abdul-rozzaq" />
-</p>
+---
 
-- 🔭 I’m currently working on **Spiska Uz**
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **Flutter and Django**
+### 🧑‍💻 About Me
 
-- 👯 I’m looking to collaborate on **None**
+- 🔭 Currently building **Spiska Uz**
+- 🌱 Leveling up in **Flutter & Django**
+- 💬 Ask me about **Flutter, Django, Python, React**
+- 📫 Reach me at **rayyan.dev@mail.ru**
+- ⚡ Fun fact: **I think I am funny**
 
-- 🤝 I’m looking for help with **None**
+<br clear="right"/>
 
-- 💬 Ask me about **Flutter and Django**
+---
 
-- 📫 How to reach me **rayyan.dev@mail.ru**
+### 🏆 GitHub Trophies
 
-- ⚡ Fun fact **I think I am Funny**
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=abdul-rozzaq&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://codepen.io/rayyandev" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rayyandev" height="30" width="40" />
-    </a>
-    <a href="https://dev.to/abdul-rozzaq" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdul-rozzaq" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/abdurazzoq43981" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdurazzoq43981" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/abdurazzoq-abdusalomov-14b696285" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurazzoq-abdusalomov-14b696285" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/27780316" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27780316" height="30" width="40" />
-    </a>
-    <a href="https://fb.com/100072563599945" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100072563599945" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/abdul__rozzaq" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul__rozzaq" height="30" width="40" />
-    </a>
-    <a href="https://t.me/abdul_rozzaq" target="blank">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="30" width="40">
-            <path fill="#29b6f6" d="M24 4A20 20 0 1 0 24 44A20 20 0 1 0 24 4Z" />
-            <path fill="#fff"
-                d="M33.95,15l-3.746,19.126c0,0-0.161,0.874-1.245,0.874c-0.576,0-0.873-0.274-0.873-0.274l-8.114-6.733 l-3.97-2.001l-5.095-1.355c0,0-0.907-0.262-0.907-1.012c0-0.625,0.933-0.923,0.933-0.923l21.316-8.468 c-0.001-0.001,0.651-0.235,1.126-0.234C33.667,14,34,14.125,34,14.5C34,14.75,33.95,15,33.95,15z" />
-            <path fill="#b0bec5"
-                d="M23,30.505l-3.426,3.374c0,0-0.149,0.115-0.348,0.12c-0.069,0.002-0.143-0.009-0.219-0.043 l0.964-5.965L23,30.505z" />
-            <path fill="#cfd8dc"
-                d="M29.897,18.196c-0.169-0.22-0.481-0.26-0.701-0.093L16,26c0,0,2.106,5.892,2.427,6.912 c0.322,1.021,0.58,1.045,0.58,1.045l0.964-5.965l9.832-9.096C30.023,18.729,30.064,18.416,29.897,18.196z" />
-        </svg>
-    </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Tech Stack
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> 
-    <br />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-    <br />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-</p>
+**Languages**
 
-<!--
-    <h3 align="left">Support:</h3>
-    <p>
-        <a href="https://www.buymeacoffee.com/abdul-rozzaq"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdul-rozzaq" /></a>
-    </p>
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div class="images" style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; align-items: start;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-rozzaq&theme=onedark" alt="abdul-rozzaq" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rozzaq&show_icons=true&locale=en&layout=compact&theme=onedark" alt="abdul-rozzaq" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abdul-rozzaq&show_icons=true&locale=en&theme=onedark" alt="abdul-rozzaq" />
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-rozzaq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rozzaq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-rozzaq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-rozzaq&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-rozzaq/abdul-rozzaq/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdul-rozzaq/abdul-rozzaq/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/abdul-rozzaq/abdul-rozzaq/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/abdurazzoq-abdusalomov-14b696285" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/abdul_rozzaq" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/abdul__rozzaq" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/abdurazzoq43981" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/abdul-rozzaq" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://codepen.io/rayyandev" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://stackoverflow.com/users/27780316" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
+  </a>
+  <a href="https://fb.com/100072563599945" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" />
 </div>
